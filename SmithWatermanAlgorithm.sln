@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmithWatermanAlgorithm", "SmithWatermanAlgorithm\SmithWatermanAlgorithm.csproj", "{C2EB3B5D-2DBD-47AD-B780-356D11CCF1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2EB3B5D-2DBD-47AD-B780-356D11CCF1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EB3B5D-2DBD-47AD-B780-356D11CCF1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EB3B5D-2DBD-47AD-B780-356D11CCF1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EB3B5D-2DBD-47AD-B780-356D11CCF1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A324E9-1241-47DD-B4A2-4E9B088AA3CA}
+	EndGlobalSection
+EndGlobal
